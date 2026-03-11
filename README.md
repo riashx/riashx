@@ -9,23 +9,14 @@
 
 <!--#Streak Stats-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xria&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-# 0xria — Clean Hacker / Dark Neon
 
-ASCII logo with glow 
 <pre style="color:#0affff; text-shadow:0 0 8px #0affff;">
    ___        __      _     
   / _ \____  / /___ _(_)___ 
  / ___/ __ \/ / __ `/ / __ \
 /_/   \____/_/\__,_/_/_/ /_/
 
-        { 0xria }
 </pre>
-
-<!-- GitHub stats widgets -->
-<img src="https://github-readme-stats.vercel.app/api?username=0xria&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xria&layout=compact&theme=tokyonight" />
-
 
 <!-- 🌒 Dark Neon GitHub Widget Section for 0xria -->
 <div style="
@@ -37,12 +28,6 @@ ASCII logo with glow
     color:#0affff;
     font-size:14px;
     text-shadow:0 0 8px #0a16ff, 0 0 12px #0a16ff;">
-   ___        __      _     
-  / _ \____  / /___ _(_)___ 
- / ___/ __ \/ / __ `/ / __ \
-/_/   \____/_/\__,_/_/_/ /_/
-
-        { 0xria }
 </div>
 <div style="
     font-family:'Segoe UI',sans-serif;

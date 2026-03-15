@@ -77,25 +77,6 @@
       background:linear-gradient(90deg,#00eaff,#b900ff,#ff00e6);
       box-shadow:0 0 10px #00eaff,0 0 15px #b900ff;
   " />
-
-  <!-- Follow Button -->
-  <div style="text-align:center; margin-top:25px;">
-    <a href="https://github.com/riashx" style="
-        font-size:20px;
-        color:#00eaff;
-        text-decoration:none;
-        font-weight:bold;
-        padding:10px 25px;
-        border-radius:10px;
-        border:2px solid #00eaff;
-        text-shadow:0 0 8px #00eaff;
-        box-shadow:0 0 12pxrgb(0, 17, 255) inset, 0 0 12px #00eaff;
-        transition:0.3s;
-        display:inline-block;
-    ">
-      ⭐ Follow @riashx
-    </a>
-  </div>
 </div>
 
 

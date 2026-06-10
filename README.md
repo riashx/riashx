@@ -2,7 +2,7 @@
 - 👋 Hi,I'm Gloria Samuel
 - 🌍 Cloud Security Engineer in progress...
 - 👩‍💻 I write Python | Technical Writer
-- 🌱 Currently learning: Cybersecurity basics, building Python & Cloud projects
+- 🌱 Currently learning: Cloudsecurity basics & projects, building Python
 - 💞️ I’m looking forward to collaborate on projects and other activities related to python and cloud security.
 - 🤍 Fun fact: I love soft aesthetics 🦋 and personal growth !
 
@@ -38,7 +38,7 @@
       margin-top:0;
       text-shadow:0 0 8px #0099ff;
   ">
-    cloud&cybersecurity • finsec • digital forensics • python • tech writing
+    cloudsecurity • finsec • digital forensics • python • technical writing
   </p>
 
   <!---

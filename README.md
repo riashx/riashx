@@ -38,7 +38,7 @@
       margin-top:0;
       text-shadow:0 0 8px #0099ff;
   ">
-    cloudsecurity • finsec • digital forensics • python • technical writing
+    cloudsecurity • finsec • digital forensics • python • technical writing •blockchain
   </p>
 
   <!---

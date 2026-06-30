@@ -18,7 +18,7 @@
 - 📚 Long-term goal: auditing and securing smart contracts / cloud infrastructure professionally
 - 👩‍💻 I write Python and technical articles
 - 💞️ Looking forward to collaborating on projects related to Python, cloud/blockchain security
-- 🤍 Fun fact: I love soft aesthetics 🦋 and personal growth!
+- 🤍 Fun fact: I love building 🦋
 
 ---
 
